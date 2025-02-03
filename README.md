@@ -199,12 +199,7 @@ If you prefer using Black in VSCode, you can add the below settings in your vsco
 ## License
 Distributed under the MIT License. See `LICENSE` for more information
 
-## Team Members
-1. Rohit Geddam: sgeddam2@ncsu.edu
-2. Arun Kumar Ramesh - arames25@ncsu.edu
-3. Kiron Jayesh - kjayesh@ncsu.edu
-4. Sai Krishna Teja Varma - smanthe@ncsu.edu
-5. Shandler Mason - samason4@ncsu.edu
+
 
 
 ## Support
@@ -265,10 +260,4 @@ This project is deployed on AWS and is live at http://3.88.233.194:8000/
 * Addition of search bar with category filter, that will help the user to search based on his/ her requirements.
 * To run multiple API requests simultaneously, multithreading will be used.
 
-## Team Members
 
-* Nirav Shah - nshah28
-* Vishwa Gandhi - vgandhi
-* Pradyumna Khawas - ppkhawas
-* Vrushanki Patel - vpatel25
-* Priya Saroj - pbsaroj
